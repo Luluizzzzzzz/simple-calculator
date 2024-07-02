@@ -1,5 +1,9 @@
 # simple-calculator
 Uma calculadora que utiliza comandos simples (apenas codigo) 
+
+
+
+
 class Calculadora {
     constructor() {
         this.soma = class {
